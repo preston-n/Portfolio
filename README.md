@@ -21,7 +21,7 @@
 ![Buried Alive Gameplay](https://github.com/preston-n/Projects/blob/main/Screenshots/BuriedAlive/BuriedAlive4.png?raw=true)
 
 # Projects
-### City PCG Tool
+### City Procedural Content Generation Tool
   * **Description:** A tool made for creating virtual cities of varying buildings and layouts with procedural content generation systems
   * *Made in Unity and with C#*
   * *More info can be found here: https://github.com/preston-n/CityPCG* 
