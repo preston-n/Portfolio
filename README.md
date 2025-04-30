@@ -24,7 +24,7 @@
 ## Buried Alive
   * **Trailer:**  https://www.youtube.com/watch?v=Gf6BLAZR3XA
   * **Description:** A 2D platformer game in which you must dig, build and use magic to survive
-  * *Made in C*
+  * *Made in Alpha Engine with C*
   * *More info can be found here: https://github.com/preston-n/Buried-Alive*
 ### Building/Digging
 ![Buried Alive Gameplay](https://github.com/preston-n/Buried-Alive/blob/main/Screenshots/BuriedAlive3.png?raw=true)
@@ -34,11 +34,14 @@
 
 # Projects
 ## Flight Simulation Projects
- * **Description:** Combat flight sims in both Unity and Unreal
- * *Unity Flight Sim - Hawk Moth*
+#Hawk Moth
+ * **Description:** An on-rails action flying game in which you must fight and make meaningful choices that will affect the characters you encounter
+ * *Made in Unity wtih C#*
  * *More info can be found here: https://github.com/preston-n/HawkMoth*
 ![Gameplay](https://github.com/preston-n/HawkMoth/blob/main/Screenshots/HawkMoth1.png?raw=true)
- * *Unreal Flight Sim - Ninjet*
+#Ninjet
+ * **Description:** An a unique flying game in which you must fight through waves of demons and upgrade your jet for survival
+ * *Made in Unreal wtih C++ and Blueprints*
  * *More info can be found here: https://github.com/preston-n/Ninjet*
 ![Gameplay](https://github.com/preston-n/Ninjet/blob/main/Screenshots/Ninjet1.png?raw=true)
 
