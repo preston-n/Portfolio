@@ -33,14 +33,17 @@
 ![Buried Alive Gameplay](https://github.com/preston-n/Projects/blob/main/Screenshots/BuriedAlive/BuriedAlive4.png?raw=true)
 
 # Projects
+## Flight Simulation Projects
+ * **Description:** Combat flight sims in both Unity and Unreal
+ * *Unity Flight Sim - Hawk Moth*
+ * *More info can be found here: https://github.com/preston-n/HawkMoth*
+![Gameplay](https://github.com/preston-n/HawkMoth/blob/main/Screenshots/HawkMoth1.png?raw=true)
+ * *Unreal Flight Sim - Ninjet*
+ * *More info can be found here: https://github.com/preston-n/Ninjet*
+![Gameplay](https://github.com/preston-n/Ninjet/blob/main/Screenshots/Ninjet1.png?raw=true)
+
 ## City Procedural Content Generation Tool
   * **Description:** A tool made for creating virtual cities of varying buildings and layouts with procedural content generation systems
   * *Made in Unity and with C#*
   * *More info can be found here: https://github.com/preston-n/CityPCG* 
 ![Picture of Generated City](https://github.com/preston-n/Projects/blob/main/Screenshots/CityPCG/City3.png?raw=true)
-
-### C++ Networking Projects
- * **Description:** Networking programs dealing with TCP/UDP, DNS, Multithreading, Client Requests, Sending and Receiving Data
- * *Made using C++ and CProcessing*
- * *More info can be found here: https://github.com/preston-n/C-Networking*
-![Lockstep Game](https://github.com/preston-n/C-Networking/blob/main/Screenshots/networkLockstep.png?raw=true)
