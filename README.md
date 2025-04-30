@@ -34,12 +34,12 @@
 
 # Projects
 ## Flight Simulation Projects
-#Hawk Moth
+### Hawk Moth
  * **Description:** An on-rails action flying game in which you must fight and make meaningful choices that will affect the characters you encounter
  * *Made in Unity wtih C#*
  * *More info can be found here: https://github.com/preston-n/HawkMoth*
 ![Gameplay](https://github.com/preston-n/HawkMoth/blob/main/Screenshots/HawkMoth1.png?raw=true)
-#Ninjet
+### Ninjet
  * **Description:** An a unique flying game in which you must fight through waves of demons and upgrade your jet for survival
  * *Made in Unreal wtih C++ and Blueprints*
  * *More info can be found here: https://github.com/preston-n/Ninjet*
